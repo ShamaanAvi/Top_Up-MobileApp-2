@@ -35,7 +35,7 @@ A Flutter-based mobile application for browsing news articles in real-time. The 
 
 1. Clone the repository:
   ```bash
-    git clone https://github.com/your_username/news_app.git
+    git clone https://github.com/ShamaanAvi/Top_Up-MobileApp-2.git
     cd news_app
 
 2. Install dependencies:
