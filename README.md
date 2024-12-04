@@ -14,11 +14,6 @@ A Flutter-based mobile application for browsing news articles in real-time. The 
 
 ---
 
-## **Screenshots**
-(Include screenshots of the Home Screen, Search Screen, Categories, Article Details, and Favorites.)
-
----
-
 ## **Technologies Used**
 - **Flutter**: Cross-platform mobile application development.
 - **NewsAPI**: Provides real-time news data.
